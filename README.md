@@ -111,12 +111,12 @@
     <header>
         <h1>Diagnóstico de Estrés</h1>
     </header>
-    
-    <nav>
-        <a href="#form">Inicio</a>
-        <a href="#about">Sobre el Estrés</a>
-        <a href="#contact">Contacto</a>
-    </nav>
+<nav>
+    <a href="#form">Inicio</a>
+    <a href="https://www.mundopsicologos.com/diccionario-psicologico/estres" target="_blank">Sobre el Estrés</a>
+    <a href="#contact">Contacto</a>
+</nav>
+
 
     <div class="container" id="form">
         <form id="stressForm">
